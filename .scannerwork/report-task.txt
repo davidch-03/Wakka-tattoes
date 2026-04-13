@@ -1,0 +1,7 @@
+organization=davidch-03
+projectKey=davidch-03_wakka-tattoes
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.85244
+dashboardUrl=https://sonarcloud.io/dashboard?id=davidch-03_wakka-tattoes
+ceTaskId=AZ2Hc4lgtj_jZkxrwJEc
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ2Hc4lgtj_jZkxrwJEc
